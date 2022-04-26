@@ -10,4 +10,4 @@ Connected to the Arduino is a infrared temperature sensor, which is able to read
 There is also a bluetooth module connected which relays the information of the ir sensor over a bluetooth connection to the Android app.
 
 ### The Android Portion
-There is a BLE (Bluetooth Low Energy) app created on the Android which looks for the bluetooth module broadcast from the Arduino system, receives the temperature data, and processes it accordingly (i.e., show alerts if temperature breaks threshold).
+There is a BLE (Bluetooth Low Energy) app created on the Android which looks for the bluetooth module broadcasted from the Arduino system, receives the temperature data, and processes it accordingly (i.e., show alerts if temperature breaks threshold).
